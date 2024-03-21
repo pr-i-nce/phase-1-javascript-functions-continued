@@ -14,9 +14,5 @@ function wrapAdjective(symbol = "*") {
     }
 }
 
-module.exports = {
-    saturdayFun,
-    mondayWork,
-    wrapAdjective
-};
+
 
